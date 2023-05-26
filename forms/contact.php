@@ -1,41 +1,46 @@
 <?php
-  /**
-  * Requires the "PHP Email Form" library
-  * The "PHP Email Form" library is available only in the pro version of the template
-  * The library should be uploaded to: vendor/php-email-form/php-email-form.php
-  * For more info and help: https://bootstrapmade.com/php-email-form/
-  */
 
-  // Replace contact@example.com with your real receiving email address
-  $receiving_email_address = 'contact@example.com';
+require_once 'assets/PHPMailer/src/Exception.php';
+require_once 'assets/PHPMailer/src/PHPMailer.php';
+require_once 'assets/PHPMailer/src/SMTP.php';
 
-  if( file_exists($php_email_form = '../assets/vendor/php-email-form/php-email-form.php' )) {
-    include( $php_email_form );
-  } else {
-    die( 'Unable to load the "PHP Email Form" Library!');
-  }
+use PHPMailer\PHPMailer\PHPMailer;
 
-  $contact = new PHP_Email_Form;
-  $contact->ajax = true;
-  
-  $contact->to = $receiving_email_address;
-  $contact->from_name = $_POST['name'];
-  $contact->from_email = $_POST['email'];
-  $contact->subject = $_POST['subject'];
+$mail = new PHPMailer(true);
 
-  // Uncomment below code if you want to use SMTP to send emails. You need to enter your correct SMTP credentials
-  /*
-  $contact->smtp = array(
-    'host' => 'example.com',
-    'username' => 'example',
-    'password' => 'pass',
-    'port' => '587'
-  );
-  */
 
-  $contact->add_message( $_POST['name'], 'From');
-  $contact->add_message( $_POST['email'], 'Email');
-  $contact->add_message( $_POST['message'], 'Message', 10);
+$alert = '';
 
-  echo $contact->send();
+if(isset($_POST['submit_contact'])){
+    $name = $_POST['name'];
+    $email = $_POST['email'];
+    $subject = $_POST['subject'];
+    $message = $_POST['message'];
+
+    try{
+      $mail->isSMTP();
+
+      $mail->Host = 'smtp.gmail.com';
+      $mail->SMTPAuth = true;
+      $mail->Username = 'bnkimtai@gmail.com';
+      $mail->Password = 'nhaspnpixlpszcqp'; //Change To Darna Email 
+      $mail->SMTPSecure = 'tls';
+      $mail->Port =  587;
+
+      $mail->setFrom('info@compleat.co.ke'); //sender
+      $mail->addAddress('bnkimtai@gmail.com'); //Recipient
+
+      $mail->isHTML(true);
+      $mail->Subject = 'Message Received from Contact Form: '.$name;
+      $mail->Body = "Name: $name<br>Email: $email<br>Subject: $subject<br>Message: $message";
+
+
+      $alert ='<div class="sent-message">Your message has been sent. Thank you!</div>';
+      $mail->send();
+
+    }catch(Exception $e){
+      $alert = "<div class='error-message'>Failed To send Message</div>";
+    }
+}
+
 ?>
