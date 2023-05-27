@@ -33,11 +33,9 @@ if(isset($_POST['submit_quote'])){
       $mail->isHTML(true);
       $mail->Subject = 'Message Received from Quotation Form: '.$name;
       $mail->Body = "Name: $name<br>Email: $email<br>Phone: $phone<br>Message: $message";
-
-
       
-      $alert ='<div class="sent-message">Your message has been sent. Thank you!</div>';
       $mail->send();
+      $alert ='<div class="sent-message">Your message has been sent. Thank you!</div>';
 
     }catch(Exception $e){
       $alert = "<div class='error-message'>Failed To send Message</div>";

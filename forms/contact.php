@@ -34,9 +34,9 @@ if(isset($_POST['submit_contact'])){
       $mail->Subject = 'Message Received from Contact Form: '.$name;
       $mail->Body = "Name: $name<br>Email: $email<br>Subject: $subject<br>Message: $message";
 
-
-      $alert ='<div class="sent-message">Your message has been sent. Thank you!</div>';
       $mail->send();
+      $alert ='<div class="sent-message">Your message has been sent. Thank you!</div>';
+      
 
     }catch(Exception $e){
       $alert = "<div class='error-message'>Failed To send Message</div>";

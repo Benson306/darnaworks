@@ -143,10 +143,10 @@ include 'forms/contact.php';
               <div class="form-group">
                 <textarea class="form-control" name="message" rows="5" placeholder="Message" required></textarea>
               </div>
-              <div>
                 <?php echo $alert; ?>
+              <div class="col-md-12 text-center">
+                <button type="submit" name="submit_contact">Send Message</button>
               </div>
-              <div class="text-center"><button type="submit" name="submit_contact">Send Message</button></div>
             </form>
           </div><!-- End Contact Form -->
 
