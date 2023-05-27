@@ -22,16 +22,6 @@ Go To Your browser
 URL: localhost/darnaworks
 ```
 
-## How To Run On Linux:
-
-```python
-cd /opt/lampp/htdocs
-git clone https://github.com/Benson306/darnaworks
-
-Go To Your browser
-URL: localhost/darnaworks
-```
-
 ## How To Run On Windows:
 
 ```python
