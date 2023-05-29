@@ -48,7 +48,7 @@ include 'forms/contact.php';
   <header id="header" class="header d-flex align-items-center">
     <div class="container-fluid container-xl d-flex align-items-center justify-content-between">
 
-      <a href="index.html" class="logo d-flex align-items-center">
+      <a href="index.php" class="logo d-flex align-items-center">
         <!-- Uncomment the line below if you also wish to use an image logo -->
         <img src="assets/img/logo.png" style="background-color: white; padding: 4px; border-radius: 6px;" alt="">
         <h1>Darna Works Limited<span>.</span></h1>
@@ -77,7 +77,7 @@ include 'forms/contact.php';
 
         <h2>Contact</h2>
         <ol>
-          <li><a href="index.html">Home</a></li>
+          <li><a href="index.php">Home</a></li>
           <li>Contact</li>
         </ol>
 
