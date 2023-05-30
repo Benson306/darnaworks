@@ -538,8 +538,7 @@
 
         <div class="section-header">
           <h2>Our Projects</h2>
-          <p>Consequatur libero assumenda est voluptatem est quidem illum et officia imilique qui vel architecto
-            accusamus fugit aut qui distinctio</p>
+          <p>Here are some of the projects that we have delivered:</p>
         </div>
 
         <div class="portfolio-isotope" data-portfolio-filter="*" data-portfolio-layout="masonry"
