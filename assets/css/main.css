@@ -18,9 +18,10 @@
 
 /* Colors */
 :root {
-  --color-default: #364d59;
+  --color-default: #fff;
   --color-primary: #009900;
-  --color-secondary: #52565e;
+  --color-secondary:#fff;
+  --color-new: #000033;
 }
 
 /* Smooth scroll behavior */
@@ -65,7 +66,7 @@ section {
 }
 
 .section-bg {
-  background-color: #f5f6f7;
+  background-color: var(--color-new);
 }
 
 .section-header {
@@ -77,7 +78,7 @@ section {
   font-size: 32px;
   font-weight: 700;
   position: relative;
-  color: #2e3135;
+  color: #fff;
 }
 
 .section-header h2:before,
@@ -277,6 +278,14 @@ section {
   font-family: var(--font-primary);
 }
 
+.header .logo h1:hover{
+  font-size: 24px;
+  font-weight: 700;
+  color: var(--color-primary);
+  margin-bottom: 0;
+  font-family: var(--font-primary);
+}
+
 .header .logo h1 span {
   color: var(--color-primary);
 }
@@ -353,7 +362,7 @@ section {
   .navbar .active,
   .navbar .active:focus,
   .navbar li:hover>a {
-    color: #fff;
+    color: var(--color-primary);
   }
 
   .navbar .dropdown ul {
@@ -753,7 +762,7 @@ section {
 }
 
 .services .service-item .icon i {
-  color: var(--color-secondary);
+  color: var(--color-new);
   font-size: 40px;
   transition: ease-in-out 0.3s;
   z-index: 2;
@@ -775,7 +784,7 @@ section {
 }
 
 .services .service-item h3 {
-  color: var(--color-default);
+  color: var(--color-primary);
   font-weight: 700;
   margin: 0 0 20px 0;
   padding-bottom: 8px;
@@ -790,6 +799,7 @@ section {
   line-height: 24px;
   font-size: 14px;
   margin-bottom: 0;
+  color: #000033;
 }
 
 .services .service-item .readmore {
@@ -799,7 +809,7 @@ section {
 }
 
 .services .service-item:hover .icon:before {
-  background: var(--color-primary);
+  background: gray;
 }
 
 .services .service-item:hover h3 {
@@ -1162,7 +1172,7 @@ section {
   display: flex;
   align-items: center;
   justify-content: center;
-  color: var(--color-primary);
+  color: var(--color-secondary);
   margin-right: 25px;
   font-size: 28px;
   width: 56px;
@@ -1170,13 +1180,13 @@ section {
   border-radius: 4px;
   line-height: 0;
   box-shadow: 0px 2px 30px rgba(0, 0, 0, 0.08);
-  background-color: #fff;
+  background-color: var(--color-primary);
   transition: 0.3s;
 }
 
 .alt-services .icon-box:hover i {
-  background-color: var(--color-primary);
-  color: #fff;
+  background-color: var(--color-secondary);
+  color: var(--color-primary);
 }
 
 .alt-services .icon-box h4 {
@@ -1186,12 +1196,12 @@ section {
 }
 
 .alt-services .icon-box h4 a {
-  color: #000;
+  color: var(--color-primary);
   transition: 0.3s;
 }
 
 .alt-services .icon-box h4 a:hover {
-  color: var(--color-primary);
+  color: var(--color-default);
 }
 
 .alt-services .icon-box p {
@@ -1231,18 +1241,19 @@ section {
 .about .our-story h4 {
   text-transform: uppercase;
   font-size: 18px;
-  color: #838893;
+  color: var(--color-primary);
 }
 
 .about .our-story h3 {
   font-size: 36px;
   font-weight: 700;
   margin-bottom: 20px;
-  color: var(--color-secondary);
+  color: var(--color-new);
 }
 
 .about .our-story p:last-child {
   margin-bottom: 0;
+  color: black;
 }
 
 .about ul {
@@ -1314,7 +1325,7 @@ section {
   font-size: 36px;
   display: block;
   font-weight: 600;
-  color: var(--color-secondary);
+  color: var(--color-new);
 }
 
 .stats-counter .stats-item p {
@@ -1322,6 +1333,7 @@ section {
   margin: 0;
   font-family: var(--font-primary);
   font-size: 14px;
+  color: var(--color-new);
 }
 
 /*--------------------------------------------------------------
@@ -1668,6 +1680,7 @@ section {
 .contact .info-item {
   box-shadow: 0 0 25px rgba(0, 0, 0, 0.08);
   padding: 20px 0 30px 0;
+  background-color: var(--color-default);
 }
 
 .contact .info-item i {
@@ -1695,6 +1708,7 @@ section {
   line-height: 24px;
   font-size: 14px;
   margin-bottom: 0;
+  color: var(--color-new);
 }
 
 .contact .php-email-form {
@@ -2685,7 +2699,7 @@ section {
 }
 
 .footer .footer-content .footer-links ul a:hover {
-  color: #fff;
+  color: var(--color-primary);
 }
 
 .footer .footer-legal .copyright {

@@ -42,7 +42,7 @@ include 'forms/contact.php';
   ======================================================== -->
 </head>
 
-<body>
+<body style="background-color: #000033;">
 
   <!-- ======= Header ======= -->
   <header id="header" class="header d-flex align-items-center">
