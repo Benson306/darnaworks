@@ -554,179 +554,252 @@
 
           <div class="row gy-4 portfolio-container" data-aos="fade-up" data-aos-delay="200">
 
-            <div class="col-lg-4 col-md-6 portfolio-item filter-remodeling">
-              <div class="portfolio-content h-100">
-                <img src="assets/img/projects/remodeling-1.jpg" class="img-fluid" alt="">
+          <div class="col-lg-4 col-md-6 portfolio-item filter-tests2">
+              <div class="portfolio-content" >
+                <img src="assets/img/projects/combined/supervision works on different projects/WhatsApp Image 2023-05-28 at 21.20.55 (4).jpeg" class="img-fluid" alt="">
                 <div class="portfolio-info">
-                  <h4>Remodeling 1</h4>
-                  <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="assets/img/projects/remodeling-1.jpg" title="Remodeling 1"
-                    data-gallery="portfolio-gallery-remodeling" class="glightbox preview-link"><i
-                      class="bi bi-zoom-in"></i></a>
-                  <a href="project-details.html" title="More Details" class="details-link"><i
-                      class="bi bi-link-45deg"></i></a>
+                  <h4>Supervision works</h4>
+                  <p style="padding: 2px;">Supervision works on different projects</p>
+                  
+                  <a href="assets/img/projects/combined/supervision works on different projects/WhatsApp Image 2023-05-28 at 21.20.55 (4).jpeg" title="Image 1" data-gallery="portfolio-gallery-supervision" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  
                 </div>
               </div>
-            </div><!-- End Projects Item -->
+              
+              <a href="assets/img/projects/combined/supervision works on different projects/WhatsApp Image 2023-05-28 at 21.20.59 (3).jpeg" title="Image 2" data-gallery="portfolio-gallery-supervision" class="glightbox preview-link"><i></i></a>
 
-            <div class="col-lg-4 col-md-6 portfolio-item filter-construction">
-              <div class="portfolio-content h-100">
-                <img src="assets/img/projects/construction-1.jpg" class="img-fluid" alt="">
-                <div class="portfolio-info">
-                  <h4>Construction 1</h4>
-                  <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="assets/img/projects/construction-1.jpg" title="Construction 1"
-                    data-gallery="portfolio-gallery-construction" class="glightbox preview-link"><i
-                      class="bi bi-zoom-in"></i></a>
-                  <a href="project-details.html" title="More Details" class="details-link"><i
-                      class="bi bi-link-45deg"></i></a>
-                </div>
-              </div>
-            </div><!-- End Projects Item -->
+              <a href="assets/img/projects/combined/supervision works on different projects/WhatsApp Image 2023-05-28 at 21.21.05 (2).jpeg" title="Image 3" data-gallery="portfolio-gallery-supervision" class="glightbox preview-link"><i></i></a>
 
-            <div class="col-lg-4 col-md-6 portfolio-item filter-repairs">
-              <div class="portfolio-content h-100">
-                <img src="assets/img/projects/repairs-1.jpg" class="img-fluid" alt="">
-                <div class="portfolio-info">
-                  <h4>Repairs 1</h4>
-                  <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="assets/img/projects/repairs-1.jpg" title="Repairs 1" data-gallery="portfolio-gallery-repairs"
-                    class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                  <a href="project-details.html" title="More Details" class="details-link"><i
-                      class="bi bi-link-45deg"></i></a>
-                </div>
-              </div>
-            </div><!-- End Projects Item -->
+            </div>
 
-            <div class="col-lg-4 col-md-6 portfolio-item filter-design">
-              <div class="portfolio-content h-100">
-                <img src="assets/img/projects/design-1.jpg" class="img-fluid" alt="">
+            <div class="col-lg-4 col-md-6 portfolio-item filter-tests2">
+              <div class="portfolio-content" style="height:400px;">
+                <img src="assets/img/projects/combined/supply of office furniture and equipment to asin gishu county government/WhatsApp Image 2023-05-29 at 21.28.59.jpeg" class="img-fluid" alt="">
                 <div class="portfolio-info">
-                  <h4>Design 1</h4>
-                  <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="assets/img/projects/design-1.jpg" title="Repairs 1" data-gallery="portfolio-gallery-book"
-                    class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                  <a href="project-details.html" title="More Details" class="details-link"><i
-                      class="bi bi-link-45deg"></i></a>
+                  <h4>Supply of office furniture</h4>
+                  <p style="padding: 2px;">Supply of office furniture and equipment to Uasin Gishu county government</p>
+                  
+                  <a href="assets/img/projects/combined/supply of office furniture and equipment to asin gishu county government/WhatsApp Image 2023-05-29 at 21.28.59.jpeg" title="Image 1" data-gallery="portfolio-gallery-furniture" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  
+                  
                 </div>
               </div>
-            </div><!-- End Projects Item -->
+              
+              <a href="assets/img/projects/combined/supply of office furniture and equipment to asin gishu county government/WhatsApp Image 2023-05-29 at 21.29.00 (1).jpeg" title="Image 2" data-gallery="portfolio-gallery-furniture" class="glightbox preview-link"><i></i></a>
 
-            <div class="col-lg-4 col-md-6 portfolio-item filter-remodeling">
-              <div class="portfolio-content h-100">
-                <img src="assets/img/projects/remodeling-2.jpg" class="img-fluid" alt="">
-                <div class="portfolio-info">
-                  <h4>Remodeling 2</h4>
-                  <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="assets/img/projects/remodeling-2.jpg" title="Remodeling 2"
-                    data-gallery="portfolio-gallery-remodeling" class="glightbox preview-link"><i
-                      class="bi bi-zoom-in"></i></a>
-                  <a href="project-details.html" title="More Details" class="details-link"><i
-                      class="bi bi-link-45deg"></i></a>
-                </div>
-              </div>
-            </div><!-- End Projects Item -->
+              <a href="assets/img/projects/combined/supply of office furniture and equipment to asin gishu county government/WhatsApp Image 2023-05-29 at 21.29.01.jpeg" title="Image 3" data-gallery="portfolio-gallery-furniture" class="glightbox preview-link"><i></i></a>
 
-            <div class="col-lg-4 col-md-6 portfolio-item filter-construction">
-              <div class="portfolio-content h-100">
-                <img src="assets/img/projects/construction-2.jpg" class="img-fluid" alt="">
-                <div class="portfolio-info">
-                  <h4>Construction 2</h4>
-                  <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="assets/img/projects/construction-2.jpg" title="Construction 2"
-                    data-gallery="portfolio-gallery-construction" class="glightbox preview-link"><i
-                      class="bi bi-zoom-in"></i></a>
-                  <a href="project-details.html" title="More Details" class="details-link"><i
-                      class="bi bi-link-45deg"></i></a>
-                </div>
-              </div>
-            </div><!-- End Projects Item -->
 
-            <div class="col-lg-4 col-md-6 portfolio-item filter-repairs">
-              <div class="portfolio-content h-100">
-                <img src="assets/img/projects/repairs-2.jpg" class="img-fluid" alt="">
-                <div class="portfolio-info">
-                  <h4>Repairs 2</h4>
-                  <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="assets/img/projects/repairs-2.jpg" title="Repairs 2" data-gallery="portfolio-gallery-repairs"
-                    class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                  <a href="project-details.html" title="More Details" class="details-link"><i
-                      class="bi bi-link-45deg"></i></a>
-                </div>
-              </div>
-            </div><!-- End Projects Item -->
+            </div>
 
-            <div class="col-lg-4 col-md-6 portfolio-item filter-design">
-              <div class="portfolio-content h-100">
-                <img src="assets/img/projects/design-2.jpg" class="img-fluid" alt="">
+            <div class="col-lg-4 col-md-6 portfolio-item filter-tests2">
+              <div class="portfolio-content">
+                <img src="assets/img/projects/combined/constction of a classroom under mininstry of education for competency based curriculum -kietkei secondary school/WhatsApp Image 2023-05-29 at 21.28.45.jpeg" class="img-fluid" alt="">
                 <div class="portfolio-info">
-                  <h4>Design 2</h4>
-                  <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="assets/img/projects/design-2.jpg" title="Repairs 2" data-gallery="portfolio-gallery-book"
-                    class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                  <a href="project-details.html" title="More Details" class="details-link"><i
-                      class="bi bi-link-45deg"></i></a>
+                  <h4>Construction of a classroom - Kietkei Sec Sch. </h4>
+                  <p style="padding: 2px;">Construction of a classroom under Ministry of Education for competency based curriculum -Kietkei Secondary School</p>
+                  
+                  <a href="assets/img/projects/combined/constction of a classroom under mininstry of education for competency based curriculum -kietkei secondary school/WhatsApp Image 2023-05-29 at 21.28.45.jpeg" title="Image 1" data-gallery="portfolio-gallery-kietkei" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                
                 </div>
               </div>
-            </div><!-- End Projects Item -->
+              
+              <a href="assets/img/projects/combined/constction of a classroom under mininstry of education for competency based curriculum -kietkei secondary school/WhatsApp Image 2023-05-29 at 21.28.48.jpeg" title="Image 2" data-gallery="portfolio-gallery-kietkei" class="glightbox preview-link"><i></i></a>
 
-            <div class="col-lg-4 col-md-6 portfolio-item filter-remodeling">
-              <div class="portfolio-content h-100">
-                <img src="assets/img/projects/remodeling-3.jpg" class="img-fluid" alt="">
-                <div class="portfolio-info">
-                  <h4>Remodeling 3</h4>
-                  <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="assets/img/projects/remodeling-3.jpg" title="Remodeling 3"
-                    data-gallery="portfolio-gallery-remodeling" class="glightbox preview-link"><i
-                      class="bi bi-zoom-in"></i></a>
-                  <a href="project-details.html" title="More Details" class="details-link"><i
-                      class="bi bi-link-45deg"></i></a>
-                </div>
-              </div>
-            </div><!-- End Projects Item -->
+              <a href="assets/img/projects/combined/constction of a classroom under mininstry of education for competency based curriculum -kietkei secondary school/WhatsApp Image 2023-05-29 at 21.28.49 (1).jpeg" title="Image 3" data-gallery="portfolio-gallery-kietkei" class="glightbox preview-link"><i></i></a>
 
-            <div class="col-lg-4 col-md-6 portfolio-item filter-construction">
-              <div class="portfolio-content h-100">
-                <img src="assets/img/projects/construction-3.jpg" class="img-fluid" alt="">
-                <div class="portfolio-info">
-                  <h4>Construction 3</h4>
-                  <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="assets/img/projects/construction-3.jpg" title="Construction 3"
-                    data-gallery="portfolio-gallery-construction" class="glightbox preview-link"><i
-                      class="bi bi-zoom-in"></i></a>
-                  <a href="project-details.html" title="More Details" class="details-link"><i
-                      class="bi bi-link-45deg"></i></a>
-                </div>
-              </div>
-            </div><!-- End Projects Item -->
+              <a href="assets/img/projects/combined/constction of a classroom under mininstry of education for competency based curriculum -kietkei secondary school/WhatsApp Image 2023-05-29 at 21.28.54.jpeg" title="Image 4" data-gallery="portfolio-gallery-kietkei" class="glightbox preview-link"><i></i></a>
 
-            <div class="col-lg-4 col-md-6 portfolio-item filter-repairs">
-              <div class="portfolio-content h-100">
-                <img src="assets/img/projects/repairs-3.jpg" class="img-fluid" alt="">
-                <div class="portfolio-info">
-                  <h4>Repairs 3</h4>
-                  <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="assets/img/projects/repairs-3.jpg" title="Repairs 2" data-gallery="portfolio-gallery-repairs"
-                    class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                  <a href="project-details.html" title="More Details" class="details-link"><i
-                      class="bi bi-link-45deg"></i></a>
-                </div>
-              </div>
-            </div><!-- End Projects Item -->
+              <a href="assets/img/projects/combined/constction of a classroom under mininstry of education for competency based curriculum -kietkei secondary school/WhatsApp Image 2023-05-29 at 21.28.55.jpeg" title="Image 5" data-gallery="portfolio-gallery-kietkei" class="glightbox preview-link"><i></i></a>
 
-            <div class="col-lg-4 col-md-6 portfolio-item filter-design">
-              <div class="portfolio-content h-100">
-                <img src="assets/img/projects/design-3.jpg" class="img-fluid" alt="">
+
+            </div>
+
+            <div class="col-lg-4 col-md-6 portfolio-item filter-tests2">
+              <div class="portfolio-content">
+                <img src="assets/img/projects/combined/construction of a classroom under ministry of education for competency based curriculum - njoro secondary school/WhatsApp Image 2023-05-28 at 21.21.08 (2).jpeg" class="img-fluid" alt="">
                 <div class="portfolio-info">
-                  <h4>Design 3</h4>
-                  <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="assets/img/projects/design-3.jpg" title="Repairs 3" data-gallery="portfolio-gallery-book"
-                    class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                  <a href="project-details.html" title="More Details" class="details-link"><i
-                      class="bi bi-link-45deg"></i></a>
+                  <h4>Construction of a classroom - Njoro Sec Sch. </h4>
+                  <p style="padding: 2px;">Construction of a classroom under ministry of education for competency based curriculum - njoro secondary school</p>
+                  
+                  <a href="assets/img/projects/combined/construction of a classroom under ministry of education for competency based curriculum - njoro secondary school/WhatsApp Image 2023-05-28 at 21.21.08 (2).jpeg" title="Image 1" data-gallery="portfolio-gallery-njoro" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                
                 </div>
               </div>
-            </div><!-- End Projects Item -->
+              
+              <a href="assets/img/projects/combined/construction of a classroom under ministry of education for competency based curriculum - njoro secondary school/WhatsApp Image 2023-05-28 at 21.21.09 (1).jpeg" title="Image 2" data-gallery="portfolio-gallery-njoro" class="glightbox preview-link"><i></i></a>
+
+              <a href="assets/img/projects/combined/construction of a classroom under ministry of education for competency based curriculum - njoro secondary school/WhatsApp Image 2023-05-28 at 21.21.11 (2).jpeg" title="Image 3" data-gallery="portfolio-gallery-njoro" class="glightbox preview-link"><i></i></a>
+
+              <a href="assets/img/projects/combined/construction of a classroom under ministry of education for competency based curriculum - njoro secondary school/WhatsApp Image 2023-05-28 at 21.21.11 (3).jpeg" title="Image 4" data-gallery="portfolio-gallery-njoro" class="glightbox preview-link"><i></i></a>
+
+              <a href="assets/img/projects/combined/construction of a classroom under ministry of education for competency based curriculum - njoro secondary school/WhatsApp Image 2023-05-29 at 21.28.55 (1).jpeg" title="Image 5" data-gallery="portfolio-gallery-njoro" class="glightbox preview-link"><i></i></a>
+
+
+            </div>
+
+            <div class="col-lg-4 col-md-6 portfolio-item filter-tests2">
+              <div class="portfolio-content">
+                <img src="assets/img/projects/combined/rouine maintenance and spot improvement of kitundu-kalambya-kithoni-mumani road/WhatsApp Image 2023-05-28 at 21.20.35.jpeg" class="img-fluid" alt="">
+                <div class="portfolio-info">
+                  <h4>Routine maintenance - Kitundu-Kalambya-Kithoni-Mumani road </h4>
+                  <p style="padding: 2px;">Routine maintenance and spot improvement of Kitundu-Kalambya-Kithoni-Mumani road</p>
+                  
+                  <a href="assets/img/projects/combined/rouine maintenance and spot improvement of kitundu-kalambya-kithoni-mumani road/WhatsApp Image 2023-05-28 at 21.20.35.jpeg " title="Image 1" data-gallery="portfolio-gallery-kitundu" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                
+                </div>
+              </div>
+              
+              <a href="assets/img/projects/combined/rouine maintenance and spot improvement of kitundu-kalambya-kithoni-mumani road/WhatsApp Image 2023-05-28 at 21.20.32.jpeg" title="Image 2" data-gallery="portfolio-gallery-kitundu" class="glightbox preview-link"><i></i></a>
+
+              <a href="assets/img/projects/combined/rouine maintenance and spot improvement of kitundu-kalambya-kithoni-mumani road/WhatsApp Image 2023-05-28 at 21.20.31.jpeg" title="Image 3" data-gallery="portfolio-gallery-kitundu" class="glightbox preview-link"><i></i></a>
+
+
+            </div>
+
+            <div class="col-lg-4 col-md-6 portfolio-item filter-tests2">
+              <div class="portfolio-content">
+                <img src="assets/img/projects/combined/routine mainnance of off kitui road-kusyomumo road in machakos county undr kenya urban roads authority/WhatsApp Image 2023-05-28 at 21.20.43 (1).jpeg" class="img-fluid" alt="">
+                <div class="portfolio-info">
+                  <h4>Routine maintenance - Off Kitui road-Kusyomumo road </h4>
+                  <p style="padding: 2px;">Routine mainnance of Off Kitui road-Kusyomumo road in Machakos County under Kenya urban roads authority</p>
+                  
+                  <a href="assets/img/projects/combined/routine mainnance of off kitui road-kusyomumo road in machakos county undr kenya urban roads authority/WhatsApp Image 2023-05-28 at 21.20.43 (1).jpeg" title="Image 1" data-gallery="portfolio-gallery-kitui" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                
+                </div>
+              </div>
+              
+              <a href="assets/img/projects/combined/routine mainnance of off kitui road-kusyomumo road in machakos county undr kenya urban roads authority/WhatsApp Image 2023-05-28 at 21.20.45 (2).jpeg" title="Image 2" data-gallery="portfolio-gallery-kitui" class="glightbox preview-link"><i></i></a>
+
+              <a href="assets/img/projects/combined/routine mainnance of off kitui road-kusyomumo road in machakos county undr kenya urban roads authority/WhatsApp Image 2023-05-28 at 21.21.13 (1).jpeg" title="Image 3" data-gallery="portfolio-gallery-kitui" class="glightbox preview-link"><i></i></a>
+              
+              <a href="assets/img/projects/combined/routine mainnance of off kitui road-kusyomumo road in machakos county undr kenya urban roads authority/WhatsApp Image 2023-05-28 at 21.21.14.jpeg" title="Image 3" data-gallery="portfolio-gallery-kitui" class="glightbox preview-link"><i></i></a>
+
+              <a href="assets/img/projects/combined/routine mainnance of off kitui road-kusyomumo road in machakos county undr kenya urban roads authority/WhatsApp Image 2023-05-29 at 21.28.47.jpeg" title="Image 3" data-gallery="portfolio-gallery-kitui" class="glightbox preview-link"><i></i></a>
+
+            </div>
+
+            <div class="col-lg-4 col-md-6 portfolio-item filter-tests2">
+              <div class="portfolio-content">
+                <img src="assets/img/projects/combined/interior design and office parttioning of family afya airways medical centre. utawala/WhatsApp Image 2023-05-28 at 21.20.54.jpeg" class="img-fluid" alt="">
+                <div class="portfolio-info">
+                  <h4>Interior design and office - Utawala </h4>
+                  <p style="padding: 2px;">Interior design and office parttioning of Family Afya airways medical centre. Utawala</p>
+                  
+                  <a href="assets/img/projects/combined/interior design and office parttioning of family afya airways medical centre. utawala/WhatsApp Image 2023-05-28 at 21.20.54.jpeg" title="Image 1" data-gallery="portfolio-gallery-interior" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                
+                </div>
+              </div>
+              
+              <a href="assets/img/projects/combined/interior design and office parttioning of family afya airways medical centre. utawala/WhatsApp Image 2023-05-28 at 21.20.47.jpeg" title="Image 2" data-gallery="portfolio-gallery-interior" class="glightbox preview-link"><i></i></a>
+
+              <a href="assets/img/projects/combined/interior design and office parttioning of family afya airways medical centre. utawala/WhatsApp Image 2023-05-28 at 21.20.50.jpeg" title="Image 3" data-gallery="portfolio-gallery-interior" class="glightbox preview-link"><i></i></a>
+              
+              <a href="assets/img/projects/combined/interior design and office parttioning of family afya airways medical centre. utawala/WhatsApp Image 2023-05-28 at 21.20.53.jpeg" title="Image 3" data-gallery="portfolio-gallery-interior" class="glightbox preview-link"><i></i></a>
+
+              <a href="assets/img/projects/combined/interior design and office parttioning of family afya airways medical centre. utawala/WhatsApp Image 2023-05-28 at 21.20.40 (1).jpeg" title="Image 3" data-gallery="portfolio-gallery-interior" class="glightbox preview-link"><i></i></a>
+
+            </div>
+
+
+            <div class="col-lg-4 col-md-6 portfolio-item filter-tests2">
+              <div class="portfolio-content" >
+                <img src="assets/img/projects/combined/constructionof adomitory at st lilians specia school for the physically challenged under national funds for the disabled kenya/WhatsApp Image 2023-05-28 at 21.20.34.jpeg" class="img-fluid" style="margin: auto;" alt="">
+                <div class="portfolio-info">
+                  <h4>Construction of a domitory</h4>
+                  <p style="padding: 2px;">Construction of a domitory at st.lilians special school for the physically challenged under national funds for the disabled kenya</p>
+                  
+                  <a href="assets/img/projects/combined/constructionof adomitory at st lilians specia school for the physically challenged under national funds for the disabled kenya/WhatsApp Image 2023-05-28 at 21.20.34.jpeg" title="Image 1" data-gallery="portfolio-gallery-dorm" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                     
+                </div>
+              </div>
+              
+              <a href="assets/img/projects/combined/constructionof adomitory at st lilians specia school for the physically challenged under national funds for the disabled kenya/WhatsApp Image 2023-05-28 at 21.20.36.jpeg" title="Image 2" data-gallery="portfolio-gallery-dorm" class="glightbox preview-link"><i></i></a>
+
+              <a href="assets/img/projects/combined/constructionof adomitory at st lilians specia school for the physically challenged under national funds for the disabled kenya/WhatsApp Image 2023-05-28 at 21.20.38.jpeg" title="Image 3" data-gallery="portfolio-gallery-dorm" class="glightbox preview-link"><i></i></a>
+
+              <a href="assets/img/projects/combined/constructionof adomitory at st lilians specia school for the physically challenged under national funds for the disabled kenya/WhatsApp Image 2023-05-28 at 21.20.34 (1).jpeg" title="Image 4" data-gallery="portfolio-gallery-dorm" class="glightbox preview-link"><i></i></a>
+
+            </div>
+            
+
+            <div class="col-lg-4 col-md-6 portfolio-item filter-tests2">
+              <div class="portfolio-content">
+                <img src="assets/img/projects/combined/construction of a classroom and the renovation of three existing blocks at labot primary school under the constituency development fund/WhatsApp Image 2023-05-29 at 21.29.04.jpeg" class="img-fluid" alt="">
+                <div class="portfolio-info">
+                  <h4>Construction of a classroom - Labot </h4>
+                  <p style="padding: 2px;">Construction of a classroom and the renovation of three existing blocks at Labot primary school under the constituency development fund</p>
+                  
+                  <a href="assets/img/projects/combined/construction of a classroom and the renovation of three existing blocks at labot primary school under the constituency development fund/WhatsApp Image 2023-05-29 at 21.29.04.jpeg" title="Image 1" data-gallery="portfolio-gallery-labot" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                
+                </div>
+              </div>
+              
+              <a href="assets/img/projects/combined/construction of a classroom and the renovation of three existing blocks at labot primary school under the constituency development fund/WhatsApp Image 2023-05-29 at 21.29.06 (1).jpeg" title="Image 2" data-gallery="portfolio-gallery-labot" class="glightbox preview-link"><i></i></a>
+
+              <a href="assets/img/projects/combined/construction of a classroom and the renovation of three existing blocks at labot primary school under the constituency development fund/WhatsApp Image 2023-05-29 at 21.29.08 (2).jpeg" title="Image 2" data-gallery="portfolio-gallery-labot" class="glightbox preview-link"><i></i></a>
+
+              <a href="assets/img/projects/combined/construction of a classroom and the renovation of three existing blocks at labot primary school under the constituency development fund/WhatsApp Image 2023-05-30 at 12.56.53.jpeg" title="Image 2" data-gallery="portfolio-gallery-labot" class="glightbox preview-link"><i></i></a>
+
+            </div>
+
+            <div class="col-lg-4 col-md-6 portfolio-item filter-tests2">
+              <div class="portfolio-content">
+                <img src="assets/img/projects/combined/concrete-non-destrutive-tests-and-structural-integrity-inspetion-materials/1.jpg" class="img-fluid" alt="">
+                <div class="portfolio-info">
+                  <h4>Concrete Tests</h4>
+                  <p style="padding: 2px;">Concrete non-destrutive tests and structural integrity inspetion materials</p>
+                  
+                  <a href="assets/img/projects/combined/concrete-non-destrutive-tests-and-structural-integrity-inspetion-materials/1.jpg" title="Image 1" data-gallery="portfolio-gallery-tests" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  
+                  
+                </div>
+              </div>
+              <a href="assets/img/projects/combined/concrete-non-destrutive-tests-and-structural-integrity-inspetion-materials/1.jpg" title="Image 2" data-gallery="portfolio-gallery-tests" class="glightbox preview-link"><i></i></a>
+            
+              <a href="assets/img/projects/combined/concrete-non-destrutive-tests-and-structural-integrity-inspetion-materials/WhatsApp Image 2023-05-28 at 21.20.57 (4).jpeg" title="Image 3" data-gallery="portfolio-gallery-tests" class="glightbox preview-link"><i></i></a>
+
+            </div>
+
+
+            <div class="col-lg-4 col-md-6 portfolio-item filter-tests2">
+              <div class="portfolio-content" >
+                <img src="assets/img/projects/combined/ground floor renovation works for tourism fund building-minstry of tourism/WhatsApp Image 2023-05-28 at 21.21.03 (1).jpeg" class="img-fluid" alt="">
+                <div class="portfolio-info">
+                  <h4>Renovation works for Tourism Fund building </h4>
+                  <p style="padding: 2px;">Ground floor renovation works for tourism fund building-minstry of tourism</p>
+                  
+                  <a href="assets/img/projects/combined/ground floor renovation works for tourism fund building-minstry of tourism/WhatsApp Image 2023-05-28 at 21.21.03 (1).jpeg" title="Image 1" data-gallery="portfolio-gallery-ground" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                
+                </div>
+              </div>
+              
+              <a href="assets/img/projects/combined/ground floor renovation works for tourism fund building-minstry of tourism/WhatsApp Image 2023-05-28 at 21.21.03 (2).jpeg" title="Image 2" data-gallery="portfolio-gallery-ground" class="glightbox preview-link"><i></i></a>
+
+              <a href="assets/img/projects/combined/ground floor renovation works for tourism fund building-minstry of tourism/WhatsApp Image 2023-05-30 at 12.36.15 (1).jpeg" title="Image 3" data-gallery="portfolio-gallery-ground" class="glightbox preview-link"><i></i></a>
+
+            </div>
+
+            <div class="col-lg-4 col-md-6 portfolio-item filter-tests2">
+              <div class="portfolio-content">
+                <img src="assets/img/projects/combined/upcoming residential design in trans nzoia endebess/WhatsApp Image 2023-05-29 at 21.23.58.jpeg" class="img-fluid" alt="">
+                <div class="portfolio-info">
+                  <h4>Upcoming residential design</h4>
+                  <p style="padding: 2px;">Upcoming residential design in trans nzoia endebess</p>
+                  
+                  <a href="assets/img/projects/combined/upcoming residential design in trans nzoia endebess/WhatsApp Image 2023-05-29 at 21.23.58.jpeg" title="Image 1" data-gallery="portfolio-gallery-nzoia" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  
+                  
+                </div>
+              </div>
+              
+              <a href="assets/img/projects/combined/upcoming residential design in trans nzoia endebess//WhatsApp Image 2023-05-29 at 21.23.59 (1).jpeg" title="Image 2" data-gallery="portfolio-gallery-nzoia" class="glightbox preview-link"><i></i></a>
+
+              <a href="assets/img/projects/combined/upcoming residential design in trans nzoia endebess/WhatsApp Image 2023-05-29 at 21.23.59.jpeg" title="Image 3" data-gallery="portfolio-gallery-nzoia" class="glightbox preview-link"><i></i></a>
+
+              <a href="assets/img/projects/combined/upcoming residential design in trans nzoia endebess/WhatsApp Image 2023-05-29 at 21.24.00.jpeg" title="Image 4" data-gallery="portfolio-gallery-nzoia" class="glightbox preview-link"><i></i></a>
+
+            </div>
 
           </div><!-- End Projects Container -->
 
