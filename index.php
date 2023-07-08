@@ -44,8 +44,9 @@
 
       <a href="index.php" class="logo d-flex align-items-center">
         <!-- Uncomment the line below if you also wish to use an image logo -->
-        <img src="assets/img/logo.png" style="background-color: white; padding: 4px; border-radius: 6px;" alt="">
-        <h1>Darna Works Limited<span>.</span></h1>
+        <img src="assets/img/logo.png" class="rounded" width="100px" height="400px" alt="">
+        <h1><div style="color:#009900; font-size:32px">Darna  Works</div>
+        <div style="color:#000033; font-size: 26px">Limited(K)</div><span></span></h1>
       </a>
 
       <i class="mobile-nav-toggle mobile-nav-show bi bi-list"></i>
@@ -71,7 +72,7 @@
         <div class="row justify-content-center">
           <div class="col-lg-6 text-center" style="margin-top: 100px;">
             <h2 data-aos="fade-down">Welcome to <span>Darna Works Limited</span></h2>
-            <p data-aos="fade-up">Discover the epitome of excellence in construction at Darna Works Limited. With our unwavering commitment to precision, innovation, and craftsmanship, we transform visions into architectural marvels that stand the test of time.</p>
+            <p data-aos="fade-up">Discover the epitome of excellence in construction at Darna Works Limited. With our unwavering commitment to precision, innovation, craftsmanship and sustainability we transform visions into architectural marvels that stand the test of time.</p>
             <a data-aos="" data-aos-delay="200" href="#get-started" class="btn-get-started">Get Started</a>
           </div>
         </div>
@@ -83,9 +84,9 @@
       <div class="carousel-item active" style="background-image: url(assets/img/hero-carousel/hero-carousel-1.jpg)">
       </div>
       <div class="carousel-item" style="background-image: url(assets/img/back.avif)"></div>
-      <div class="carousel-item" style="background-image: url(assets/img/hero-carousel/hero-carousel-2.jpg)"></div>
+      <!-- <div class="carousel-item" style="background-image: url(assets/img/hero-carousel/hero-carousel-2.jpg)"></div> -->
       <div class="carousel-item" style="background-image: url(assets/img/back2.avif)"></div>
-      <div class="carousel-item" style="background-image: url(assets/img/hero-carousel/hero-carousel-5.jpg)"></div>
+      <!-- <div class="carousel-item" style="background-image: url(assets/img/hero-carousel/hero-carousel-5.jpg)"></div> -->
 
       <a class="carousel-control-prev" href="#hero-carousel" role="button" data-bs-slide="prev">
         <span class="carousel-control-prev-icon bi bi-chevron-left" aria-hidden="true"></span>
@@ -110,8 +111,8 @@
           <div class="col-lg-6 d-flex align-items-center" data-aos="fade-up">
             <div class="content">
               <h3>Who We are</h3>
-                <p>We are trusted industry leaders, with teams of seasoned professionals who combine expertise, state-of-the-art technology, and an unwavering passion for construction to bring your dreams to life. </p>
-                <p>Whether you seek residential, commercial, or industrial solutions, we are your steadfast partner, dedicated to delivering exceptional results that exceed expectations. Explore a world where quality meets ingenuity, and embark on a construction journey like no other with Darna Works Limited</p>           
+                <p>We are trusted industry leaders, with teams of seasoned professionals who combine expertise, state-of-the-art technology, and an unwavering passion for <b style="color: #009900;">construction</b> to bring your dreams to life. </p>
+                <p>Whether you seek residential, commercial, or industrial solutions, we are your steadfast partner, dedicated to delivering exceptional results that exceed expectations. Explore a world where quality meets ingenuity, and embark on a construction journey like no other with Darna Works Limited.</p>           
              
               <div class="php-email-form" style="background-color: transparent;padding-left: 0;">
                 <a href="about.html" style="text-decoration: none;color: white;"><button >Learn more</button></a>
@@ -175,7 +176,7 @@
                 <i class="fa-solid fa-compass-drafting"></i>
               </div>
               <h3>Architectural Design</h3>
-              <p>Our comprehensive services encompass visionary architectural design, where form seamlessly merges with function, creating captivating spaces that inspire. With meticulous attention to detail and a deep understanding of client aspirations, our architectural expertise transforms concepts into captivating realities.</p>
+              <p>Our comprehensive services encompass visionary architectural design, where form seamlessly merges with function, creating captivating spaces that inspire. With meticulous attention to detail and a deep understanding of client aspirations, our architectural expertise transforms concepts into captivating realities. </p>
               <!-- <a href="service-details.html" class="readmore stretched-link">Learn more <i
                   class="bi bi-arrow-right"></i></a> -->
             </div>
@@ -222,8 +223,8 @@
               <div class="icon">
                 <i class="fa-solid fa-helmet-safety"></i>
               </div>
-              <h3>Bill of Quantities & Estimation</h3>
-              <p>Our comprehensive bill of quantities and estimation services provide clients with detailed cost insights, enabling informed decision-making for successful project planning and budget optimization. With our expertise, we deliver accurate assessments that ensure transparency and cost-effective solutions.</p>
+              <h3>Bill of Quantities & Cost Estimation</h3>
+              <p>Our comprehensive bill of quantities and cost estimation services provide clients with detailed cost insights, enabling informed decision-making for successful project planning and budget optimization. With our expertise, we deliver accurate assessments that ensure transparency and cost-effective solutions.</p>
               <!-- <a href="service-details.html" class="readmore stretched-link">Learn more <i
                   class="bi bi-arrow-right"></i></a> -->
             </div>
@@ -767,6 +768,22 @@
               <div class="testimonial-wrap">
                 <div class="testimonial-item">
                   <img src="assets/img/education.png" class="" alt="" style="width: 350px;">
+                </div>
+              </div>
+            </div><!-- End testimonial item -->
+
+            <div class="swiper-slide">
+              <div class="testimonial-wrap">
+                <div class="testimonial-item">
+                  <img src="assets/img/kenha.jpeg" class="" alt="" style="width: 550px;">
+                </div>
+              </div>
+            </div><!-- End testimonial item -->
+
+            <div class="swiper-slide">
+              <div class="testimonial-wrap">
+                <div class="testimonial-item">
+                  <img src="assets/img/disabled.jpeg" class="" alt="" style="width: 180px;">
                 </div>
               </div>
             </div><!-- End testimonial item -->
