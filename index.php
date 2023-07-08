@@ -44,9 +44,11 @@
 
       <a href="index.php" class="logo d-flex align-items-center">
         <!-- Uncomment the line below if you also wish to use an image logo -->
-        <img src="assets/img/logo.png" class="rounded" width="100px" height="400px" alt="">
-        <h1><div style="color:#009900; font-size:32px">Darna  Works</div>
-        <div style="color:#000033; font-size: 26px">Limited(K)</div><span></span></h1>
+        <img src="assets/img/removed.png" class="img-fluid"  alt="">
+        <div style="margin-left: 30px;">
+          <h1><div style="color:#009900; font-size:32px">Darna  Works</div>
+          <div style="color:#000033; font-size: 24px">Limited(K)</div><span></span></h1>
+        </div>
       </a>
 
       <i class="mobile-nav-toggle mobile-nav-show bi bi-list"></i>
