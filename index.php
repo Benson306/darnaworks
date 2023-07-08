@@ -458,17 +458,20 @@
         <div class="portfolio-isotope" data-portfolio-filter="*" data-portfolio-layout="masonry"
           data-portfolio-sort="original-order">
 
-          <!-- <ul class="portfolio-flters" data-aos="fade-up" data-aos-delay="100">
-            <li data-filter="*" class="filter-active">All</li>
-            <li data-filter=".filter-remodeling">Remodeling</li>
-            <li data-filter=".filter-construction">Construction</li>
-            <li data-filter=".filter-repairs">Repairs</li>
-            <li data-filter=".filter-design">Design</li>
-          </ul>End Projects Filters -->
+          <ul class="portfolio-flters" data-aos="fade-up" data-aos-delay="100">
+            <li data-filter="*" class="filter-active">All.</li>
+            <li data-filter=".filter-construction">Building Construction.</li>
+            <li data-filter=".filter-works">Civil Works.</li>
+            <li data-filter=".filter-management">Project Management.</li>
+            <!-- <li data-filter=".filter-supply">Supply of Goods.</li> -->
+            <li data-filter=".filter-design">Design.</li>
+          </ul> 
+          <!-- End Projects Filters -->
 
+          
           <div class="row gy-4 portfolio-container" data-aos="fade-up" data-aos-delay="200">
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-tests2">
+            <div class="col-lg-4 col-md-6 portfolio-item filter-management">
               <div class="portfolio-content" >
                 <img src="assets/img/projects/combined/supervision works on different projects/WhatsApp Image 2023-05-28 at 21.20.55 (4).jpeg" class="img-fluid" alt="">
                 <div class="portfolio-info">
@@ -486,7 +489,7 @@
 
             </div>
 
-            <div class="col-lg-4 col-md-6 portfolio-item filter-tests2">
+            <!-- <div class="col-lg-4 col-md-6 portfolio-item filter-supply">
               <div class="portfolio-content" style="height:400px;">
                 <img src="assets/img/projects/combined/supply of office furniture and equipment to asin gishu county government/WhatsApp Image 2023-05-29 at 21.28.59.jpeg" class="img-fluid" alt="">
                 <div class="portfolio-info">
@@ -504,9 +507,9 @@
               <a href="assets/img/projects/combined/supply of office furniture and equipment to asin gishu county government/WhatsApp Image 2023-05-29 at 21.29.01.jpeg" title="Image 3" data-gallery="portfolio-gallery-furniture" class="glightbox preview-link"><i></i></a>
 
 
-            </div>
+            </div> -->
 
-            <div class="col-lg-4 col-md-6 portfolio-item filter-tests2">
+            <div class="col-lg-4 col-md-6 portfolio-item filter-construction">
               <div class="portfolio-content">
                 <img src="assets/img/projects/combined/constction of a classroom under mininstry of education for competency based curriculum -kietkei secondary school/WhatsApp Image 2023-05-29 at 21.28.45.jpeg" class="img-fluid" alt="">
                 <div class="portfolio-info">
@@ -529,7 +532,7 @@
 
             </div>
 
-            <div class="col-lg-4 col-md-6 portfolio-item filter-tests2">
+            <div class="col-lg-4 col-md-6 portfolio-item filter-construction">
               <div class="portfolio-content">
                 <img src="assets/img/projects/combined/construction of a classroom under ministry of education for competency based curriculum - njoro secondary school/WhatsApp Image 2023-05-28 at 21.21.08 (2).jpeg" class="img-fluid" alt="">
                 <div class="portfolio-info">
@@ -552,7 +555,7 @@
 
             </div>
 
-            <div class="col-lg-4 col-md-6 portfolio-item filter-tests2">
+            <div class="col-lg-4 col-md-6 portfolio-item filter-works">
               <div class="portfolio-content">
                 <img src="assets/img/projects/combined/rouine maintenance and spot improvement of kitundu-kalambya-kithoni-mumani road/WhatsApp Image 2023-05-28 at 21.20.35.jpeg" class="img-fluid" alt="">
                 <div class="portfolio-info">
@@ -571,7 +574,7 @@
 
             </div>
 
-            <div class="col-lg-4 col-md-6 portfolio-item filter-tests2">
+            <div class="col-lg-4 col-md-6 portfolio-item filter-works">
               <div class="portfolio-content">
                 <img src="assets/img/projects/combined/routine mainnance of off kitui road-kusyomumo road in machakos county undr kenya urban roads authority/WhatsApp Image 2023-05-28 at 21.20.43 (1).jpeg" class="img-fluid" alt="">
                 <div class="portfolio-info">
@@ -593,7 +596,7 @@
 
             </div>
 
-            <div class="col-lg-4 col-md-6 portfolio-item filter-tests2">
+            <div class="col-lg-4 col-md-6 portfolio-item filter-design">
               <div class="portfolio-content">
                 <img src="assets/img/projects/combined/interior design and office parttioning of family afya airways medical centre. utawala/WhatsApp Image 2023-05-28 at 21.20.54.jpeg" class="img-fluid" alt="">
                 <div class="portfolio-info">
@@ -616,7 +619,7 @@
             </div>
 
 
-            <div class="col-lg-4 col-md-6 portfolio-item filter-tests2">
+            <div class="col-lg-4 col-md-6 portfolio-item filter-construction">
               <div class="portfolio-content" >
                 <img src="assets/img/projects/combined/constructionof adomitory at st lilians specia school for the physically challenged under national funds for the disabled kenya/WhatsApp Image 2023-05-28 at 21.20.34.jpeg" class="img-fluid" style="margin: auto;" alt="">
                 <div class="portfolio-info">
@@ -637,7 +640,7 @@
             </div>
             
 
-            <div class="col-lg-4 col-md-6 portfolio-item filter-tests2">
+            <div class="col-lg-4 col-md-6 portfolio-item filter-construction">
               <div class="portfolio-content">
                 <img src="assets/img/projects/combined/construction of a classroom and the renovation of three existing blocks at labot primary school under the constituency development fund/WhatsApp Image 2023-05-29 at 21.29.04.jpeg" class="img-fluid" alt="">
                 <div class="portfolio-info">
@@ -657,7 +660,7 @@
 
             </div>
 
-            <div class="col-lg-4 col-md-6 portfolio-item filter-tests2">
+            <div class="col-lg-4 col-md-6 portfolio-item filter-construction">
               <div class="portfolio-content">
                 <img src="assets/img/projects/combined/concrete-non-destrutive-tests-and-structural-integrity-inspetion-materials/1.jpg" class="img-fluid" alt="">
                 <div class="portfolio-info">
@@ -676,25 +679,28 @@
             </div>
 
 
-            <div class="col-lg-4 col-md-6 portfolio-item filter-tests2">
+            <div class="col-lg-4 col-md-6 portfolio-item filter-construction">
               <div class="portfolio-content" >
-                <img src="assets/img/projects/combined/ground floor renovation works for tourism fund building-minstry of tourism/WhatsApp Image 2023-05-28 at 21.21.03 (1).jpeg" class="img-fluid" alt="">
+                <img src="assets/img/projects/combined/ground floor renovation works for tourism fund building-minstry of tourism/Tourism-Fund-HQ-800x590-1.jpg" class="img-fluid" alt="">
                 <div class="portfolio-info">
                   <h4>Renovation works for Tourism Fund building </h4>
                   <p style="padding: 2px;">Ground floor renovation works for tourism fund building-minstry of tourism</p>
                   
-                  <a href="assets/img/projects/combined/ground floor renovation works for tourism fund building-minstry of tourism/WhatsApp Image 2023-05-28 at 21.21.03 (1).jpeg" title="Image 1" data-gallery="portfolio-gallery-ground" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <a href="assets/img/projects/combined/ground floor renovation works for tourism fund building-minstry of tourism/Tourism-Fund-HQ-800x590-1.jpg" title="Image 1" data-gallery="portfolio-gallery-ground" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                 
                 </div>
               </div>
-              
-              <a href="assets/img/projects/combined/ground floor renovation works for tourism fund building-minstry of tourism/WhatsApp Image 2023-05-28 at 21.21.03 (2).jpeg" title="Image 2" data-gallery="portfolio-gallery-ground" class="glightbox preview-link"><i></i></a>
 
-              <a href="assets/img/projects/combined/ground floor renovation works for tourism fund building-minstry of tourism/WhatsApp Image 2023-05-30 at 12.36.15 (1).jpeg" title="Image 3" data-gallery="portfolio-gallery-ground" class="glightbox preview-link"><i></i></a>
+              
+              <a href="assets/img/projects/combined/ground floor renovation works for tourism fund building-minstry of tourism/WhatsApp Image 2023-05-28 at 21.21.03 (1).jpeg" title="Image 2" data-gallery="portfolio-gallery-ground" class="glightbox preview-link"><i></i></a>
+
+              <a href="assets/img/projects/combined/ground floor renovation works for tourism fund building-minstry of tourism/WhatsApp Image 2023-05-28 at 21.21.03 (2).jpeg" title="Image 3" data-gallery="portfolio-gallery-ground" class="glightbox preview-link"><i></i></a>
+
+              <a href="assets/img/projects/combined/ground floor renovation works for tourism fund building-minstry of tourism/WhatsApp Image 2023-05-30 at 12.36.15 (1).jpeg" title="Image 4" data-gallery="portfolio-gallery-ground" class="glightbox preview-link"><i></i></a>
 
             </div>
 
-            <div class="col-lg-4 col-md-6 portfolio-item filter-tests2">
+            <div class="col-lg-4 col-md-6 portfolio-item filter-design">
               <div class="portfolio-content">
                 <img src="assets/img/projects/combined/upcoming residential design in trans nzoia endebess/WhatsApp Image 2023-05-29 at 21.23.58.jpeg" class="img-fluid" alt="">
                 <div class="portfolio-info">
@@ -714,8 +720,7 @@
               <a href="assets/img/projects/combined/upcoming residential design in trans nzoia endebess/WhatsApp Image 2023-05-29 at 21.24.00.jpeg" title="Image 4" data-gallery="portfolio-gallery-nzoia" class="glightbox preview-link"><i></i></a>
 
             </div>
-
-          </div><!-- End Projects Container -->
+        </div>
 
         </div>
 
@@ -963,7 +968,7 @@
                 P.O Box 2291 - 30200, KITALE<br><br>
                 <strong>Phone:</strong> +254 726 552 690<br>
                 <strong>Phone:</strong> +254 712 689 574<br>
-                <strong>Email:</strong> darnaworkslimited@gmail.com<br>
+                <strong>Email:</strong> darnaworksltd@gmail.com<br>
               </p>
               <div class="social-links d-flex mt-3">
                 <a href="#" class="d-flex align-items-center justify-content-center"><i class="bi bi-twitter"></i></a>

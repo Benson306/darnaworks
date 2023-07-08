@@ -105,7 +105,7 @@ include 'forms/contact.php';
             <div class="info-item d-flex flex-column justify-content-center align-items-center">
               <i class="bi bi-envelope"></i>
               <h3>Email Us</h3>
-              <p>darnaworkslimited@gmail.com</p>
+              <p>darnaworksltd@gmail.com</p>
               <p>.</p>
             </div>
           </div><!-- End Info Item -->
@@ -176,7 +176,7 @@ include 'forms/contact.php';
                 P.O Box 2291 - 30200, KITALE<br><br>
                 <strong>Phone:</strong> +254 726 552 690<br>
                 <strong>Phone:</strong> +254 712 689 574<br>
-                <strong>Email:</strong> darnaworkslimited@gmail.com<br>
+                <strong>Email:</strong> darnaworksltd@gmail.com<br>
               </p>
               <div class="social-links d-flex mt-3">
                 <a href="#" class="d-flex align-items-center justify-content-center"><i class="bi bi-twitter"></i></a>
