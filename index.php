@@ -124,8 +124,8 @@
 
           <div class="col-lg-5" data-aos="fade">
             <form method="POST" role="form" class="php-email-form">
-              <h3>Get a quote</h3>
-              <p>Let us a create of your desired project. Reach out to us by filling the form below:</p>
+              <h3 style="color:black;">Get a quote</h3>
+              <p style="color:black;">Let us create a budget of your desired project. Reach out to us by filling the form below:</p>
               <div class="row gy-3">
 
                 <div class="col-md-12">

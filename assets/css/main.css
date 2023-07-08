@@ -1291,18 +1291,18 @@ section {
   color: var(--color-primary);
 }
 
-.about .about-img {
+/* .about .about-img {
   min-height: 600px;
   background-size: cover;
   background-position: center;
-}
+} */
 
 @media (min-width: 992px) {
-  .about .about-img {
+  /* .about .about-img {
     position: absolute;
     top: 0;
     right: 0;
-  }
+  } */
 }
 
 /*--------------------------------------------------------------
