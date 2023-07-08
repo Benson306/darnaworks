@@ -124,7 +124,7 @@
 
           <div class="col-lg-5" data-aos="fade">
             <form method="POST" role="form" class="php-email-form">
-              <h3 style="color:black;">Get a quote</h3>
+              <h3 style="color:#000033;">Get a quote</h3>
               <p style="color:black;">Let us create a budget of your desired project. Reach out to us by filling the form below:</p>
               <div class="row gy-3">
 
@@ -324,7 +324,7 @@
                 </ul>
               </div>
               <div class="col-lg-6 order-1 order-lg-2 text-center" data-aos="fade-up" data-aos-delay="200">
-                <img src="assets/img/general.jpg" alt="" class="img-fluid">
+                <img src="assets/img/generalworks.jpeg" alt="" class="img-fluid">
               </div>
             </div>
           </div><!-- End tab content item -->
@@ -343,7 +343,7 @@
                 </ul>
               </div>
               <div class="col-lg-6 order-1 order-lg-2 text-center">
-                <img src="assets/img/features-2.jpg" alt="" class="img-fluid">
+                <img src="assets/img/civilworks.jpeg" alt="" class="img-fluid">
               </div>
             </div>
           </div><!-- End tab content item -->
@@ -377,7 +377,7 @@
                 </ul>
               </div>
               <div class="col-lg-6 order-1 order-lg-2 text-center">
-                <img src="assets/img/supply.jpg" alt="" class="img-fluid">
+                <img src="assets/img/supply.jpeg" style="height:400px" alt="" class="img-fluid">
               </div>
             </div>
           </div><!-- End tab content item -->
