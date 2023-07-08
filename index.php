@@ -775,7 +775,7 @@
             <div class="swiper-slide">
               <div class="testimonial-wrap">
                 <div class="testimonial-item">
-                  <img src="assets/img/kenha.jpeg" class="" alt="" style="width: 550px;">
+                  <img src="assets/img/kenha.jpeg" class="img-fluid" alt="" style="width: 550px;">
                 </div>
               </div>
             </div><!-- End testimonial item -->
