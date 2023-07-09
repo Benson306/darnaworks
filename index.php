@@ -125,10 +125,12 @@
           </div>
 
           <div class="col-lg-5" data-aos="fade">
-            <form method="POST" role="form" class="php-email-form">
+            <form action="https://formcarry.com/s/" method="POST" class="php-email-form">
               <h3 style="color:#000033;">Get a quote</h3>
               <p style="color:black;">Let us create a budget of your desired project. Reach out to us by filling the form below:</p>
               <div class="row gy-3">
+
+              <input type="hidden" name="type" id="type" value="Quote Form" />
 
                 <div class="col-md-12">
                   <input type="text" name="name" class="form-control" placeholder="Name" required>
@@ -147,9 +149,7 @@
                 </div>
 
                 <div class="col-md-12 text-center">
-                  <?php echo $alert; ?>
-
-                  <button type="submit" name="submit_quote">Get a quote</button>
+                  <button type="submit" >Get a quote</button>
                 </div>
 
               </div>

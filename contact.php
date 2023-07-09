@@ -131,7 +131,8 @@ include 'forms/contact.php';
           </div><!-- End Google Maps -->
 
           <div class="col-lg-6">
-            <form method="POST" role="form" class="php-email-form">
+          <form action="https://formcarry.com/s/" method="POST" class="php-email-form">
+            <input type="hidden" name="type" id="type" value="Contact Form" />
               <div class="row gy-4">
                 <div class="col-lg-6 form-group">
                   <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" required>
@@ -146,9 +147,8 @@ include 'forms/contact.php';
               <div class="form-group">
                 <textarea class="form-control" name="message" rows="5" placeholder="Message" required></textarea>
               </div>
-                <?php echo $alert; ?>
               <div class="col-md-12 text-center">
-                <button type="submit" name="submit_contact">Send Message</button>
+                <button type="submit">Send Message</button>
               </div>
             </form>
           </div><!-- End Contact Form -->
