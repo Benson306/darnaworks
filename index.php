@@ -74,7 +74,7 @@
         <div class="row justify-content-center">
           <div class="col-lg-6 text-center" style="margin-top: 100px;">
             <h2 data-aos="fade-down">Welcome to <span>Darna Works Limited</span></h2>
-            <p data-aos="fade-up">Discover the epitome of excellence in construction at Darna Works Limited. With our unwavering commitment to precision, innovation, craftsmanship and sustainability we transform visions into architectural marvels that stand the test of time.</p>
+            <p data-aos="fade-up" style="font-size: 16px;">Discover the epitome of excellence in construction at Darna Works Limited. With our unwavering commitment to precision, innovation, craftsmanship and sustainability we transform visions into architectural marvels that stand the test of time.</p>
             <a data-aos="" data-aos-delay="200" href="#get-started" class="btn-get-started">Get Started</a>
           </div>
         </div>

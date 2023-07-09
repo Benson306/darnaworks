@@ -125,7 +125,7 @@ include 'forms/contact.php';
 
           <div class="col-lg-6 ">
             <iframe
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15955.839061827868!2d36.89692451128948!3d-1.188646977628025!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x182f3e5442ecd4c7%3A0x7e1a974a8545538f!2sKahawa%20West%2C%20Githurai!5e0!3m2!1sen!2ske!4v1685050724122!5m2!1sen!2ske"
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3354.3084584686444!2d36.90087556272461!3d-1.1831765495737852!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x182f3f41793354d7%3A0xfb701bf9c3f88a21!2sDarna%20Works%20Limited!5e0!3m2!1sen!2ske!4v1688884738349!5m2!1sen!2ske"
               frameborder="0" style="border:0; width: 100%; height: 384px;" allowfullscreen>
             </iframe>
           </div><!-- End Google Maps -->
