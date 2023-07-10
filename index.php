@@ -766,7 +766,7 @@
             <div class="swiper-slide">
               <div class="testimonial-wrap">
                 <div class="testimonial-item">
-                  <img src="assets/img/wildlife.webp" class="" alt="" style="width: 350px;">
+                  <img src="assets/img/wildlife.webp" class="img-fluid" alt="" style="width: 350px;">
                 </div>
               </div>
             </div><!-- End testimonial item -->
