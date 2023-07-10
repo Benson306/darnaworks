@@ -207,7 +207,7 @@ section {
   z-index: 999999;
   overflow: hidden;
   background: #fff;
-  transition: all 0.6s ease-out;
+  transition: all 0.1s ease-out;
 }
 
 #preloader:before {
@@ -566,6 +566,15 @@ section {
   position: relative;
 }
 
+.get-started .content h4 {
+  font-size: 24px;
+  color: var(--color-primary);
+  font-weight: 600;
+  margin-bottom: 25px;
+  padding-bottom: 0px;
+  position: relative;
+}
+
 .get-started .content h3:after {
   content: "";
   position: absolute;
@@ -576,6 +585,19 @@ section {
   left: 0;
   bottom: 0;
 }
+
+/* .get-started .content h4:after {
+  content: "";
+  position: relative;
+  display: block;
+  width: 60px;
+  height: 4px;
+  background: var(--color-primary);
+  left: 10;
+  margin-top: 0;
+  bottom: 0;
+} */
+
 
 .get-started .content p {
   font-size: 14px;
@@ -1254,6 +1276,7 @@ section {
 .about .our-story p:last-child {
   margin-bottom: 0;
   color: black;
+  font-size: 14px;
 }
 
 .about ul {

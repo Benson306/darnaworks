@@ -115,7 +115,10 @@
               <h3>Who We are</h3>
                 <p>We are trusted industry leaders, with teams of seasoned professionals who combine expertise, state-of-the-art technology, and an unwavering passion for <b style="color: #009900;">construction</b> to bring your dreams to life. </p>
                 <p>Whether you seek residential, commercial, or industrial solutions, we are your steadfast partner, dedicated to delivering exceptional results that exceed expectations. Explore a world where quality meets ingenuity, and embark on a construction journey like no other with Darna Works Limited.</p>           
-             
+             <!-- <p>
+             Darna Works Ltd is a renowned construction company based in Kenya that specializes in a comprehensive range of services, including road construction, civil engineering, water projects, and building works. Established in 2018, the company has quickly gained recognition for its commitment to quality, professionalism, and timely project delivery. With a diverse portfolio and a dedication to exceeding client expectations, Darna Works Ltd has become a trusted name in the construction industry within a short span of time.
+
+             </p> -->
               <div class="php-email-form" style="background-color: transparent;padding-left: 0;">
                 <a href="about.html" style="text-decoration: none;color: white;"><button >Learn more</button></a>
               </div>
