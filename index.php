@@ -465,6 +465,7 @@
             <li data-filter="*" class="filter-active">All.</li>
             <li data-filter=".filter-construction">Building Construction.</li>
             <li data-filter=".filter-works">Civil Works.</li>
+            <li data-filter=".filter-plumbing">Plumbing Works.</li>
             <li data-filter=".filter-management">Project Management.</li>
             <!-- <li data-filter=".filter-supply">Supply of Goods.</li> -->
             <li data-filter=".filter-design">Design.</li>
@@ -599,6 +600,26 @@
 
             </div>
 
+            <div class="col-lg-4 col-md-6 portfolio-item filter-works">
+              <div class="portfolio-content">
+                <img src="assets/img/projects/combined/construction of Culvert - silicone valley gikumari road under kerra/WhatsApp Image 2023-07-13 at 11.49.38.jpeg" class="img-fluid" alt="">
+                <div class="portfolio-info">
+                  <h4>Routine maintenance -> Culvert - silicone valley gikumari road  </h4>
+                  <p style="padding: 2px;">Construction of Culvert - silicone valley gikumari road under kerra</p>
+                  
+                  <a href="assets/img/projects/combined/construction of Culvert - silicone valley gikumari road under kerra/WhatsApp Image 2023-07-13 at 11.49.38.jpeg" title="Image 1" data-gallery="portfolio-gallery-culvert" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                
+                </div>
+              </div>
+              
+              <a href="assets/img/projects/combined/construction of Culvert - silicone valley gikumari road under kerra/WhatsApp Image 2023-07-13 at 11.49.39.jpeg" title="Image 2" data-gallery="portfolio-gallery-culvert" class="glightbox preview-link"><i></i></a>
+
+              <a href="assets/img/projects/combined/construction of Culvert - silicone valley gikumari road under kerra/WhatsApp Image 2023-07-13 at 11.49.40.jpeg" title="Image 3" data-gallery="portfolio-gallery-culvert" class="glightbox preview-link"><i></i></a>
+
+            </div>
+
+            
+
             <div class="col-lg-4 col-md-6 portfolio-item filter-design">
               <div class="portfolio-content">
                 <img src="assets/img/projects/combined/interior design and office parttioning of family afya airways medical centre. utawala/WhatsApp Image 2023-05-28 at 21.20.54.jpeg" class="img-fluid" alt="">
@@ -723,6 +744,29 @@
               <a href="assets/img/projects/combined/upcoming residential design in trans nzoia endebess/WhatsApp Image 2023-05-29 at 21.24.00.jpeg" title="Image 4" data-gallery="portfolio-gallery-nzoia" class="glightbox preview-link"><i></i></a>
 
             </div>
+
+            <div class="col-lg-4 col-md-6 portfolio-item filter-plumbing">
+              <div class="portfolio-content">
+                <img src="assets/img/projects/combined/plumbing works/WhatsApp Image 2023-07-13 at 11.48.02.jpeg" class="img-fluid" alt="">
+                <div class="portfolio-info">
+                  <h4>Plumbing Works on different projects.</h4>
+                  <p style="padding: 2px;">Plumbing Works on different projects.</p>
+                  
+                  <a href="assets/img/projects/combined/plumbing works/WhatsApp Image 2023-07-13 at 11.48.02.jpeg" title="Image 1" data-gallery="portfolio-gallery-plumbing" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  
+                  
+                </div>
+              </div>
+              
+              <a href="assets/img/projects/combined/plumbing works/WhatsApp Image 2023-07-13 at 11.48.02 (1).jpeg" title="Image 2" data-gallery="portfolio-gallery-plumbing" class="glightbox preview-link"><i></i></a>
+
+              <a href="assets/img/projects/combined/plumbing works/WhatsApp Image 2023-07-13 at 11.48.03 (1).jpeg" title="Image 3" data-gallery="portfolio-gallery-plumbing" class="glightbox preview-link"><i></i></a>
+
+              <a href="assets/img/projects/combined/plumbing works/WhatsApp Image 2023-07-13 at 11.48.03.jpeg" title="Image 4" data-gallery="portfolio-gallery-plumbing" class="glightbox preview-link"><i></i></a>
+
+            </div>
+
+
         </div>
 
         </div>
